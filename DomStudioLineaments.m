@@ -1,5 +1,5 @@
 function DomStudioLineaments(~)
-% @ 2023 by Andrea Bistacchi & Stefano Casiraghi, distributed under the GNU AGPL v3.0 license.
+% @ 2023 by Andrea Bistacchi, distributed under the GNU AGPL v3.0 license.
 %
 % Function used for the analysis of lineaments imported as SHP files
 %
